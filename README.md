@@ -1,1 +1,1 @@
-This project is mainly for coding challenges in C language
+# This repo is mainly for react challenges
